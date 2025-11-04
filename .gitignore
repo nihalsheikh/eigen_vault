@@ -1,3 +1,23 @@
 # Python Environment
+.env
 .venv
-venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# mypy
+.mypy_cache/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Packaging
+build/
+dist/
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
