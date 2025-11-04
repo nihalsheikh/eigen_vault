@@ -1,4 +1,8 @@
-# Eigen Vault
+<!-- Banner Image -->
+
+![Banner Image](./assets/github-header-banner.png)
+
+<h1>Eigen Vault</h1>
 
 ### **Your Passwords, Your Power** <br>
 
