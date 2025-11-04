@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-![Banner Image](./assets/github-header-banner.png)
+![Banner Image](./public/assets/github-header-banner.png)
 
 <h1>Eigen Vault</h1>
 
